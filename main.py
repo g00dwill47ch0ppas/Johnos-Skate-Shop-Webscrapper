@@ -1,3 +1,10 @@
+"""
+Author: Goodwill Sebaetse
+Contact: gosegosebaetse@gmail.com
+GitHub: https://github.com/g00dwill47ch0ppas
+Version: 1.0
+"""
+
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
