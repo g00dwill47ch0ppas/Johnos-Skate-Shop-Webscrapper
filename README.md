@@ -37,7 +37,7 @@ pip install beautifulsoup4 requests pandas openpyxl keyboard
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/johnos-skate-shop-scraper.git
+   git clone https://github.com/g00dwill47ch0ppas/Johnos-Skate-Shop-Webscrapper/tree/main
    ```
 2. Navigate to the project directory:
    ```bash
